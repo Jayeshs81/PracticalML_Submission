@@ -1,10 +1,6 @@
-# PracticalML_Submission
-Submission for Practical Machine Learning Course
+# Practical Machine Learning Submission
+Submission for Practical Machine Learning Course by Jayesh Samant
 
-
-# My Project
-is really really cool. My Project has a subdir named myLib, see below.
-
-## myLib documentation
-see documentation [here](PML.rmd)
-see documentation [here](PML.html)
+## Submission Documents
+See KnitR file [here](PML.rmd)
+see final html output [here](PML.html).
